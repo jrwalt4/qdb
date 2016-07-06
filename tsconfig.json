@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "outFile": "build/qdb.js",
+        "sourceMap": true,
+        "module": "amd",
+        "target": "es5"
+    },
+    "exclude": [
+        "node_modules",
+        ".settings",
+        ".vscode",
+        "dist",
+        "build",
+        "test"
+    ]
+}
